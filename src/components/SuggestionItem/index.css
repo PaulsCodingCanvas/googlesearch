@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  list-style-type: none;
+}
+.suggestion-text {
+  color: #475569;
+  font-size: 15px;
+}
+
+.arrow-button {
+  height: 15px;
+  width: 15px;
+}
